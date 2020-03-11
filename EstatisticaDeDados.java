@@ -5,8 +5,8 @@ import java.io.InputStreamReader;
  * Este programa foi desenhado para facilitar o calculo de dados
  * para o Laboratorio de Fisica, para criar um relatorio mais rapidamente
  * Basta inserir suas medidas e ver seus resultados 
- * As funcoes de leitura do input do usuario sao de @author delamaro
- * Resto @author lamotta
+ * @author lamotta com modificacoes feitas nas funcoes de leitura
+ * de inputs de @author delamaro
  *
  */
 
